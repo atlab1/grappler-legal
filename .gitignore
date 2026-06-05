@@ -1,0 +1,10 @@
+# Secrets / app code must never be committed here
+.env
+.env.*
+*.key
+*.pem
+*.p8
+*.p12
+*.mobileprovision
+node_modules/
+.DS_Store
